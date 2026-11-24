@@ -10,7 +10,7 @@ translate french welchp5_17eb3a33:
 translate french welchp5_b9bc6f1d:
 
     # sst "My sluttiness is a relatively new development."
-    sst "Ma débauche est un phénomène relativement récent."
+    sst "Mon côté débauché est un phénomène relativement récent."
 
 # game/Scenes/Welch/WelchConversations/welchp5.rpy:17
 translate french welchp5_19e510e4:
@@ -58,7 +58,7 @@ translate french welchp5_cd6dd9f1:
 translate french welchp5_742dd378:
 
     # pc "I like it when you're loud too."
-    pc "J'aime quand tu es bruyant aussi."
+    pc "J'aime aussi quand tu es bruyante."
 
 # game/Scenes/Welch/WelchConversations/welchp5.rpy:29
 translate french welchp5_2cb82d8f:
