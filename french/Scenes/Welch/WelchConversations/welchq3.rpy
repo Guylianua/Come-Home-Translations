@@ -64,7 +64,7 @@ translate french welchq3_568df244:
 translate french welchq3_66973fbf:
 
     # sst "I don't care who you date, or fuck, or whatever."
-    sst "Je m'en fiche de qui tu sors, ou avec qui tu couches, ou quoi que ce soit d'autre."
+    sst "Je m'en fiche de avec qui tu sors, ou avec qui tu couches, ou quoi que ce soit d'autre."
 
 # game/Scenes/Welch/WelchConversations/welchq3.rpy:34
 translate french welchq3_f8369310:
