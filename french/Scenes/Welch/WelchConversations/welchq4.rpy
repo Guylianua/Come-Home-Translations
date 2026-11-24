@@ -16,25 +16,25 @@ translate french welchq4_2cf7a593:
 translate french welchq4_9a20da1e:
 
     # sst "Yeah, I'm with you."
-    sst "Ouais, je suis d'accord avec toi."
+    sst "Oui, je suis d'accord avec toi."
 
 # game/Scenes/Welch/WelchConversations/welchq4.rpy:17
 translate french welchq4_4b16e3b4:
 
     # sst "I'm not just non-religious though. I am anti-religious."
-    sst "Mais je ne suis pas seulement non-croyant. Je suis antireligieux."
+    sst "Mais je ne suis pas seulement non-croyante. Je suis anticléricale."
 
 # game/Scenes/Welch/WelchConversations/welchq4.rpy:18
 translate french welchq4_23b69273:
 
     # sst "I don't like religion at all or religious people really either."
-    sst "Je n'aime pas du tout la religion, ni les gens religieux d'ailleurs."
+    sst "Je n'aime pas du tout les religions, ni les gens religieux d'ailleurs."
 
 # game/Scenes/Welch/WelchConversations/welchq4.rpy:19
 translate french welchq4_c0922e2d:
 
     # sst "Religion has caused so many problems in the world. It preys on the weak and the dumb."
-    sst "La religion a causé tellement de problèmes dans le monde. Elle s'attaque aux faibles et aux idiots."
+    sst "Les religions ont causé tellement de problèmes dans le monde. Elles s'attaquent aux faibles et aux idiots."
 
 # game/Scenes/Welch/WelchConversations/welchq4.rpy:22
 translate french welchq4_2858fb31:
@@ -70,13 +70,13 @@ translate french welchq4_9843e33d:
 translate french welchq4_e1639514:
 
     # sst "Glad to hear we're on the same page."
-    sst "Je suis content d'entendre qu'on est sur la même longueur d'onde."
+    sst "Je suis contente d'entendre qu'on est sur la même longueur d'onde."
 
 # game/Scenes/Welch/WelchConversations/welchq4.rpy:31
 translate french welchq4_f4d67be7:
 
     # sst "I don't think I could ever date a religious person."
-    sst "Je ne pense pas que je pourrais sortir avec une personne religieuse."
+    sst "Je ne pense pas que je pourrais sortir avec une personne très croyante."
 
 # game/Scenes/Welch/WelchConversations/welchq4.rpy:32
 translate french welchq4_c2324f68:
