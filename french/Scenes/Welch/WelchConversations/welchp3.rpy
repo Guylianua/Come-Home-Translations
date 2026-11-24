@@ -76,7 +76,7 @@ translate french welchp3_046cc9dc:
 translate french welchp3_f4ff49aa:
 
     # pc "I'm so sorry."
-    pc "Je suis vraiment désolée."
+    pc "Je suis vraiment désolé."
 
 # game/Scenes/Welch/WelchConversations/welchp3.rpy:32
 translate french welchp3_fb4b2a44:
@@ -136,7 +136,7 @@ translate french welchp3_a743359b:
 translate french welchp3_32233872:
 
     # pc "Well I'm happy that you got away from all of that."
-    pc "Eh bien, je suis contente que tu aies pu t'en sortir."
+    pc "Eh bien, je suis content que tu aies pu t'en sortir."
 
 # game/Scenes/Welch/WelchConversations/welchp3.rpy:45
 translate french welchp3_c3a3d08a:
@@ -172,5 +172,5 @@ translate french welchp3_3fcdcf91:
 translate french welchp3_3ef0232d:
 
     # sst "Fuck yeah, I am!"
-    sst "Putain, oui, je le suis !"
+    sst "Putain, oui, je suis géniale !"
 
