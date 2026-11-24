@@ -142,7 +142,7 @@ translate french welchq2_f5e1f9f4:
 translate french welchq2_56cf1a1c:
 
     # pc "Sounds like a good night."
-    pc "Ça a l'air d'être une bonne soirée."
+    pc "On dirait que ça aurait été une bonne soirée."
 
 # game/Scenes/Welch/WelchConversations/welchq2.rpy:48
 translate french welchq2_606ce672:
