@@ -8,7 +8,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Jez/jezconvoscreen.rpy:2
     old "You can have these when you talk to her on the phone."
-    new "Vous pouvez avoir ce genre de conversation lorsque vous lui parlez au téléphone."
+    new "Tu peux avoir ce genre de conversation lorsque tu lui parle au téléphone."
 
     # game/Screens/New Affection Menu/Jez/jezconvoscreen.rpy:3
     old "This is a personal conversation with Jez."
