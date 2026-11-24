@@ -28,7 +28,7 @@ translate french welchq5_d41d8cd9_1:
 translate french welchq5_3edc1350:
 
     # sst "Well, I told myself I wouldn't do this, but we both know my self-control is shit."
-    sst "Eh bien, je m’étais promis de ne pas faire ça, mais on sait tous les deux que je n’ai aucune maîtrise de moi."
+    sst "Eh bien, je m’étais promise de ne pas faire ça, mais on sait tous les deux que je n’ai aucune maîtrise de moi."
 
 # game/Scenes/Welch/WelchConversations/welchq5.rpy:25
 translate french welchq5_d41d8cd9_2:
@@ -64,7 +64,7 @@ translate french welchq5_d41d8cd9_4:
 translate french welchq5_dbf0b915:
 
     # sst "But now, like an idiot, I've completely fallen for you."
-    sst "Mais maintenant, comme une idiote, je suis complètement tombée amoureuse de toi."
+    sst "Mais maintenant, comme une idiote, je suis tombée complètement amoureuse de toi."
 
 # game/Scenes/Welch/WelchConversations/welchq5.rpy:35
 translate french welchq5_d41d8cd9_5:
@@ -130,7 +130,7 @@ translate french welchq5_d41d8cd9_9:
 translate french welchq5_2ec50911:
 
     # sst "You should. You shouldn't just toss all those relationships aside to be with me."
-    sst "Tu devrais. Tu ne devrais pas simplement balayer toutes ces relations pour être avec moi."
+    sst "Tu devrais continuer. Tu ne devrais pas simplement balayer toutes ces relations pour être avec moi."
 
 # game/Scenes/Welch/WelchConversations/welchq5.rpy:54
 translate french welchq5_d41d8cd9_10:
@@ -166,7 +166,7 @@ translate french welchq5_d41d8cd9_12:
 translate french welchq5_e3e7f64d:
 
     # sst "But I'm starting to get jealous too."
-    sst "Mais je commence à être jaloux moi aussi."
+    sst "Mais je commence à être jalouse moi aussi."
 
 # game/Scenes/Welch/WelchConversations/welchq5.rpy:66
 translate french welchq5_d41d8cd9_13:
@@ -190,7 +190,7 @@ translate french welchq5_d41d8cd9_14:
 translate french welchq5_ad07f7d3:
 
     # sst "So after you graduate and I'm not your teacher anymore, do you want to move in with me and get serious?"
-    sst "Alors, une fois que tu auras obtenu ton diplôme et que je ne serai plus ton prof, tu veux emménager avec moi et passer à la vitesse supérieure ?"
+    sst "Alors, une fois que tu auras obtenu ton diplôme et que je ne serai plus ton prof, veux-tu emménager avec moi et passer à la vitesse supérieure ?"
 
 # game/Scenes/Welch/WelchConversations/welchq5.rpy:74
 translate french welchq5_d41d8cd9_15:
@@ -280,13 +280,13 @@ translate french welchq5_d41d8cd9_21:
 translate french welchq5_0d419059:
 
     # sst "All right. Mushy feelings talk over with. Let's change the topic."
-    sst "Très bien. Finie la discussion sentimentale. Changeons de sujet."
+    sst "Très bien. Fini la discussion sentimentale. Changeons de sujet."
 
 translate french strings:
 
     # game/Scenes/Welch/WelchConversations/welchq5.rpy:2
     old "After you have been approved by Nora's best friend and you have progressed the main story to the point where Whitney has finished the portal,"
-    new "Une fois que tu auras été approuvé par la meilleure amie de Nora et que tu auras fait avancer l’histoire principale jusqu’au moment où Whitney aura terminé le portail,"
+    new "Une fois que tu auras été acceptée par la meilleure amie de Nora et que tu auras fait avancer l’histoire principale jusqu’au moment où Whitney aura terminé le portail,"
 
     # game/Scenes/Welch/WelchConversations/welchq5.rpy:3
     old "Nora will have this conversation with you on a date."
