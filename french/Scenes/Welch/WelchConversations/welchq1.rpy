@@ -46,13 +46,13 @@ translate french welchq1_2101f83b:
 translate french welchq1_a8c03e38:
 
     # pc "I mostly went to get away from my dad."
-    pc "J’y suis surtout allée pour m’éloigner de mon père."
+    pc "J’y suis surtout allé pour m’éloigner de mon père."
 
 # game/Scenes/Welch/WelchConversations/welchq1.rpy:26
 translate french welchq1_491bbf21:
 
     # pc "Then I came back because he went missing."
-    pc "Et puis je suis revenue parce qu’il a disparu."
+    pc "Et puis je suis revenu parce qu’il a disparu."
 
 # game/Scenes/Welch/WelchConversations/welchq1.rpy:27
 translate french welchq1_7d1ce916:
@@ -70,7 +70,7 @@ translate french welchq1_90a4fc00:
 translate french welchq1_cd80a08e:
 
     # pc "Yeah, we're still looking for him."
-    pc "Ouais, on le cherche toujours."
+    pc "Oui, on le cherche toujours."
 
 # game/Scenes/Welch/WelchConversations/welchq1.rpy:30
 translate french welchq1_5e522282:
@@ -88,13 +88,13 @@ translate french welchq1_b92afc22:
 translate french welchq1_c417e350:
 
     # pc "Yeah."
-    pc "Ouais."
+    pc "Oui."
 
 # game/Scenes/Welch/WelchConversations/welchq1.rpy:34
 translate french welchq1_99556521:
 
     # sst "Fuck, I'm sorry honey. That's awful."
-    sst "Merde, je suis désolée, ma chérie. C’est horrible."
+    sst "Merde, je suis désolée, mon chéri. C’est horrible."
 
 # game/Scenes/Welch/WelchConversations/welchq1.rpy:35
 translate french welchq1_795ad0a8:
@@ -130,13 +130,13 @@ translate french welchq1_7fdffe26:
 translate french welchq1_37d515c7:
 
     # pc "Oh, right. Sorry."
-    pc "Oh, c'est vrai. Désolée."
+    pc "Oh, c'est vrai. Désolé."
 
 # game/Scenes/Welch/WelchConversations/welchq1.rpy:42
 translate french welchq1_d46d6d96:
 
     # sst "It's okay, baby."
-    sst "C'est bon, ma chérie."
+    sst "C'est bon, mon chéri."
 
 # game/Scenes/Welch/WelchConversations/welchq1.rpy:44
 translate french welchq1_9023eaec:
