@@ -8,7 +8,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:2
     old "You can have these with her any day before work."
-    new "Vous pouvez avoir ce genre de conversation avec elle n'importe quel jour avant le travail."
+    new "Tu peux avoir ce genre de conversation avec elle n'importe quel jour avant le travail."
 
     # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:4
     old "This is a personal conversation with Dana."
@@ -16,7 +16,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:5
     old "You can have these with her on any date."
-    new "Vous pouvez avoir ce genre de conversation avec elle lors de n'importe quel rendez-vous."
+    new "Tu peux avoir ce genre de conversation avec elle lors de n'importe quel rendez-vous."
 
     # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:7
     old "This is a question that Dana will ask on a date."
