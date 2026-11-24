@@ -16,13 +16,13 @@ translate french whitneygrottostartdate_358134f0:
 translate french whitneygrottostartdate_484d8b28:
 
     # "The food is delicious, and conversation with Whitney is always good."
-    "La nourriture est délicieuse, et la conversation avec Whitney est toujours agréable."
+    "La nourriture est délicieuse et la conversation avec Whitney est toujours agréable."
 
 # game/Scenes/Whitney/WhitneyDates/whitneygrottodate.rpy:32
 translate french whitneygrottostartdate_cf98ece3:
 
     # "When we're done eating, we keep chatting for a while, until eventually it's time to leave."
-    "Une fois le repas terminé, nous continuons à discuter un moment, jusqu’à ce qu’il soit finalement temps de partir."
+    "Une fois le repas terminé, nous continuons à discuter un moment jusqu’à ce qu’il soit finalement temps de partir."
 
 # game/Scenes/Whitney/WhitneyDates/whitneygrottodate.rpy:35
 translate french whitneygrottostartdate_d3ad0d0d:
