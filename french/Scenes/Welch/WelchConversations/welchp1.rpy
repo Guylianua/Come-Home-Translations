@@ -46,7 +46,7 @@ translate french welchp1_76ef101a:
 translate french welchp1_d712325a:
 
     # pc "So you want me to be rough?"
-    pc "Alors tu veux que je sois brutale ?"
+    pc "Alors tu veux que je sois brutal ?"
 
 # game/Scenes/Welch/WelchConversations/welchp1.rpy:24
 translate french welchp1_3c10a2da:
