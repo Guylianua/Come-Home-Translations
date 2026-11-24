@@ -8,5 +8,5 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Mills/millsconvoscreen.rpy:2
     old "You can have these when chatting with her any weekday before work starts."
-    new "Vous pouvez avoir ce genre de conversation en discutant avec elle n'importe quel jour de la semaine avant le début du travail."
+    new "Tu peux avoir ce genre de conversation en discutant avec elle n'importe quel jour de la semaine avant le début du travail."
 
