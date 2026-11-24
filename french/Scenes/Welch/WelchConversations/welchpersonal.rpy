@@ -16,5 +16,5 @@ translate french strings:
 
     # game/Scenes/Welch/WelchConversations/welchpersonal.rpy:11
     old "Where's the weirdest place you've had sex?"
-    new "C'est où l'endroit le plus bizarre où tu as fait l'amour ?"
+    new "Que est l'endroit le plus bizarre où tu as fait l'amour ?"
 
