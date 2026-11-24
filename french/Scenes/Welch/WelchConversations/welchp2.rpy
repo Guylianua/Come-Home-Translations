@@ -16,7 +16,7 @@ translate french welchp2_b98d95b5:
 translate french welchp2_a285fe28:
 
     # sst "And that was only because we bumped into each other at the club and I'd had a bit too much rum."
-    sst "Et c'était juste parce qu'on s'était croisés en boîte et que j'avais un peu trop bu de rhum."
+    sst "Et c'était juste parce qu'on s'était croisés en boîte et que j'avais bu un peu trop  de rhum."
 
 # game/Scenes/Welch/WelchConversations/welchp2.rpy:17
 translate french welchp2_bc4efacb:
@@ -40,7 +40,7 @@ translate french welchp2_f1a797a3:
 translate french welchp2_92a5851e:
 
     # sst "Which is so stupid. I can't believe I did that."
-    sst "C'est tellement stupide. Je n'arrive pas à croire que j'ai fait ça."
+    sst "C'est tellement stupide. Je n'arrive pas à croire que j'aie fait ça."
 
 # game/Scenes/Welch/WelchConversations/welchp2.rpy:24
 translate french welchp2_b4cc7836:
@@ -58,7 +58,7 @@ translate french welchp2_4cb217e1:
 translate french welchp2_27f4943f:
 
     # sst "Yeah, I definitely had a crush on you."
-    sst "Ouais, j'avais clairement le béguin pour toi."
+    sst "Ouais, tu me plaisais vraiment."
 
 # game/Scenes/Welch/WelchConversations/welchp2.rpy:32
 translate french welchp2_24d4453a:
@@ -82,7 +82,7 @@ translate french welchp2_664052a9:
 translate french welchp2_b7e6ebc6:
 
     # sst "Anyway, I know I should wait until you graduate. It's a {i}really{/i} bad idea to get involved with a student."
-    sst "Bref, je sais que je devrais attendre que tu aies ton diplôme. C'est une {i}vraiment{/i} mauvaise idée de sortir avec une élève."
+    sst "Bref, je sais que je devrais attendre que tu aies ton diplôme. C'est {i}vraiment{/i} une mauvaise idée de sortir avec un élève."
 
 # game/Scenes/Welch/WelchConversations/welchp2.rpy:38
 translate french welchp2_637b9991:
