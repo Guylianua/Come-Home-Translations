@@ -12,7 +12,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Mari/mariconvoscreen.rpy:4
     old "You can have these on the phone or on dates."
-    new "Vous pouvez avoir ces conversations au téléphone ou lors de rendez-vous."
+    new "Tu peux avoir ces conversations au téléphone ou lors de rendez-vous."
 
     # game/Screens/New Affection Menu/Mari/mariconvoscreen.rpy:5
     old "This is a question that Mari will ask."
