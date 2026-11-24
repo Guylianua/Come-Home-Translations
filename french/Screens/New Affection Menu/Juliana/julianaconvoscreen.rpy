@@ -12,7 +12,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Juliana/julianaconvoscreen.rpy:4
     old "You can have these on the phone, by chatting at the cafe, or on dates."
-    new "Vous pouvez avoir ce genre de conversation au téléphone, en discutant au café ou lors de rendez-vous."
+    new "Tu peux avoir ce genre de conversation au téléphone, en discutant au café ou lors de rendez-vous."
 
     # game/Screens/New Affection Menu/Juliana/julianaconvoscreen.rpy:5
     old "This is a question that Juliana will ask."
