@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:24
 translate french whitneylakestartdate_47eb9743:
 
     # "Whitney picks me up at the house and we drive out to the lake together."
-    "Whitney vient me chercher chez moi et nous partons ensemble en voiture vers le lac."
+    "Whitney vient me chercher chez moi et on part ensemble en voiture vers le lac."
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:28
 translate french whitneylakestartdate_5080aca1:
@@ -16,7 +16,7 @@ translate french whitneylakestartdate_5080aca1:
 translate french whitneylakestartdate_1af1a6a0:
 
     # "After a few moments though, she easily drives it over the grass and the sticks and everything."
-    "Au bout de quelques instants, elle le manœuvre sans peine sur l’herbe, les brindilles et tout le reste."
+    "Mais au bout de quelques instants, elle le manœuvre sans peine sur l’herbe, les brindilles et tout le reste."
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:30
 translate french whitneylakestartdate_eb9acc1a:
@@ -40,7 +40,7 @@ translate french whitneylakestartdate_bf635735:
 translate french whitneylakestartdate_76516750:
 
     # wt "Do you mind helping me get in the water?"
-    wt "Ça te dérange de m'aider à aller dans l'eau ?"
+    wt "Ça te dérange de m'aider à entrer dans l'eau ?"
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:38
 translate french whitneylakestartdate_6912ead3:
@@ -52,13 +52,13 @@ translate french whitneylakestartdate_6912ead3:
 translate french whitneylakestartdate_7a07b522:
 
     # wt "If you can just lay a towel out on the pier and help me get down onto it, I can take it from there."
-    wt "Si tu peux juste étendre une serviette sur la jetée et m'aider à m'y allonger, je m'en charge à partir de là."
+    wt "Si tu peux juste étendre une serviette sur la jetée et m'aider à m'y installer, je me débrouille pour la suite."
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:40
 translate french whitneylakestartdate_08551511:
 
     # pc "You got it."
-    pc "D'accord."
+    pc "Ça marche."
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:42
 translate french whitneylakestartdate_9f7acf09:
@@ -70,7 +70,7 @@ translate french whitneylakestartdate_9f7acf09:
 translate french whitneylakestartdate_d1e93262:
 
     # "We both strip out of our clothing first."
-    "On enlève tous les deux nos vêtements d'abord."
+    "D'abord, on se déshabille tous les deux."
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:47
 translate french whitneylakestartdate_d67282bb:
@@ -82,7 +82,7 @@ translate french whitneylakestartdate_d67282bb:
 translate french whitneylakestartdate_7fb8a5fb:
 
     # "After she gets out of the chair and down onto the towel, she can pretty easily move over to the edge of the pier and drop into the water."
-    "Une fois qu'elle est sortie de son fauteuil et allongée sur la serviette, elle peut assez facilement se déplacer jusqu'au bord de la jetée et se laisser glisser dans l'eau."
+    "Une fois qu'elle est sortie de son fauteuil et installée sur la serviette, elle peut assez facilement se déplacer jusqu'au bord de la jetée et se laisser glisser dans l'eau."
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:51
 translate french whitneylakestartdate_d9e021c9:
@@ -100,7 +100,7 @@ translate french whitneylakestartdate_01583ae3:
 translate french whitneylakestartdate_a50e7f4d:
 
     # wt "Did I make you nervous?"
-    wt "Je t'ai rendu nerveux ?"
+    wt "Je t'ai inquiété ?"
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:63
 translate french whitneylakestartdate_14ebcb20:
@@ -112,7 +112,7 @@ translate french whitneylakestartdate_14ebcb20:
 translate french whitneylakestartdate_82975624:
 
     # wt "Swimming is actually not too hard. Your body naturally wants to float when it's relaxed, and my lower half is about as relaxed as you can get."
-    wt "Nager, ce n'est en fait pas si difficile. Ton corps a naturellement tendance à flotter quand il est détendu, et le bas de mon corps est aussi détendu qu'on peut l'être."
+    wt "Nager, ce n'est en fait pas si difficile. Le corps a naturellement tendance à flotter quand il est détendu, et le bas de mon corps est on ne peut plus détendu."
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:65
 translate french whitneylakestartdate_3855b13f:
@@ -130,7 +130,7 @@ translate french whitneylakestartdate_be81b23c:
 translate french whitneylakestartdate_6deeea27:
 
     # pc "Definitely. I'm here for you if you need anything."
-    pc "Tout à fait. Je suis là si tu as besoin de quoi que ce soit."
+    pc "Évidemment. Je suis là si tu as besoin de quoi que ce soit."
 
 # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:70
 translate french whitneylakestartdate_971b71fa:
@@ -178,15 +178,14 @@ translate french whitneylakestartdate_5e52e08c:
 translate french whitneylakestartdate_62360daa:
 
     # "We spend a while making out, lake water drying on our skin, until finally we force ourselves to get up and go back to the van."
-    "Nous passons un moment à nous embrasser, l'eau du lac séchant sur notre peau, jusqu'à ce que nous nous forcions enfin à nous lever et à retourner au van."
+    "On passe un moment à s'embrasser, l'eau du lac séchant sur notre peau, jusqu'à ce qu'on se force enfin à se lever pour retourner au van."
 
 translate french strings:
 
     # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:2
     old "To unlock the lake as a dating location, you need to progress along Reba's story until you spend the night with her there alone."
-    new "Pour débloquer le lac comme lieu de rendez-vous, tu dois progresser dans l'histoire de Reba jusqu'à passer la nuit avec elle là-bas, seuls."
+    new "Pour débloquer le lac comme lieu de rendez-vous, tu dois progresser dans l'histoire de Reba jusqu'à passer la nuit seul avec elle là-bas."
 
     # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:3
     old "You will also need to ask Whitney if she can swim. Then you can invite her out to the lake in the evening for a date by calling her on the phone."
-    new "Tu devras également demander à Whitney si elle sait nager. Vous pourrez alors l'inviter au lac le soir pour un rendez-vous en l'appelant au téléphone."
-
+    new "Tu devras également demander à Whitney si elle sait nager. Tu pourras alors l'inviter au lac le soir pour un rendez-vous en l'appelant au téléphone."
