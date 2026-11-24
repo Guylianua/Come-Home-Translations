@@ -8,7 +8,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:3
     old "This is a counselor chat with Gertrude that you can have by talking to her in her office on weekday mornings before school."
-    new "Il s'agit d'une discussion avec Gertrude, la conseillère, que tu peux avoir en lui parlant dans son bureau les matins en semaine avant les cours."
+    new "Il s'agit d'une discussion avec Gertrude, la conseillère pédagogique, que tu peux avoir en lui parlant dans son bureau les matins en semaine avant les cours."
 
     # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:4
     old "Some conversations won't appear until you've done others."
