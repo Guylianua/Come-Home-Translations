@@ -8,7 +8,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:2
     old "You can have these when you talk to her on the phone or on a date."
-    new "Vous pouvez avoir ce genre de conversation lorsque vous lui parlez au téléphone ou lors d'un rendez-vous."
+    new "Tu peux avoir ce genre de conversation lorsque tu lui parle au téléphone ou lors d'un rendez-vous."
 
     # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:3
     old "This is a question that Brandi will ask on a date."
@@ -16,7 +16,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:4
     old "She asks questions in order, one per date. To unlock, go on more dates with her."
-    new "Elle pose ses questions dans l'ordre, une par rendez-vous. Pour les débloquer, passez plus de rendez-vous avec elle."
+    new "Elle pose ses questions dans l'ordre, une par rendez-vous. Pour les débloquer, apprends à mieux la connaître au fil de vos rendez-vous."
 
     # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:5
     old "This is a personal conversation with Brandi."
@@ -24,5 +24,5 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:6
     old "You can have these when you are on a date with her."
-    new "Vous pouvez avoir ce genre de conversation lorsque vous êtes en rendez-vous avec elle."
+    new "Tu peux avoir ce genre de conversation lorsque tu es en rendez-vous avec elle."
 
