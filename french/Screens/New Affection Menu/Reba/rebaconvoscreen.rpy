@@ -8,7 +8,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Reba/rebaconvoscreen.rpy:2
     old "You can have these when you talk to her on the phone or during the first part of a date."
-    new "Vous pouvez avoir ce genre de conversation lorsque vous lui parlez au téléphone ou pendant la première partie d'un rendez-vous."
+    new "Tu peux avoir ce genre de conversation lorsque tu lui parles au téléphone ou pendant la première partie d'un rendez-vous."
 
     # game/Screens/New Affection Menu/Reba/rebaconvoscreen.rpy:3
     old "This is a personal conversation with Reba."
