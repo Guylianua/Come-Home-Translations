@@ -24,5 +24,5 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:6
     old "She asks her questions in order, one per date. To unlock, go on more dates with her."
-    new "Elle pose ses questions dans l'ordre, une par rendez-vous. Pour les débloquer, allez à d'autres rendez-vous avec elle."
+    new "Elle pose ses questions dans l'ordre, une par rendez-vous. Pour les débloquer,  apprends à mieux la connaître au fil de vos rendez-vous."
 
