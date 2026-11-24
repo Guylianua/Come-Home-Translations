@@ -64,7 +64,7 @@ translate french strings:
 
     # game/Scenes/Welch/WelchConversations/welchp4.rpy:4
     old "This is a personal conversation that you can have with Ms. Welch on any date."
-    new "C’est une conversation personnelle que tu peux avoir avec Mme Welch à n’importe quelle date."
+    new "C’est une conversation personnelle que tu peux avoir avec Mme Welch à n’importe quel rendez-vous."
 
     # game/Scenes/Welch/WelchConversations/welchp4.rpy:5
     old "To unlock this conversation, you have to finish the scene where you are caught by Flora at Ms. Welch's house."
