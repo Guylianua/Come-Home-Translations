@@ -4,7 +4,7 @@
 translate french whitneytitfuck_3a862337:
 
     # wt "You want to slide your penis between my breasts?"
-    wt "Tu veux glisser ton pénis entre mes seins ?"
+    wt "Tu veux glisser ton sexe entre mes seins ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneytitfuck.rpy:16
 translate french whitneytitfuck_0b4bed9b:
@@ -46,7 +46,7 @@ translate french whitneytitfuck_28a7f10a:
 translate french whitneytitfuck_63379e56:
 
     # wt "Having your penis rub along my soft, sensitive skin feels good for me too."
-    wt "Sentir ton pénis frotter contre ma peau douce et sensible, ça me fait du bien aussi."
+    wt "Sentir ton sexe frotter contre ma peau douce et sensible, ça me fait du bien aussi."
 
 # game/Scenes/Whitney/WhitneySex/whitneytitfuck.rpy:35
 translate french whitneytitfuck_4cda9bfa:
@@ -58,7 +58,7 @@ translate french whitneytitfuck_4cda9bfa:
 translate french whitneytitfuck_472e58c1:
 
     # wt "It's fun too. I don't usually like my breasts. They tend to be more of a nuisance than anything."
-    wt "C'est marrant aussi. D'habitude, je n'aime pas mes seins. Ils sont plus une nuisance qu'autre chose."
+    wt "C'est marrant aussi. D'habitude, je n'aime pas mes seins. Ils sont plus une gène qu'autre chose."
 
 # game/Scenes/Whitney/WhitneySex/whitneytitfuck.rpy:37
 translate french whitneytitfuck_512b37a9:
@@ -118,5 +118,5 @@ translate french whitneytitfuck_3eb6e8ce:
 translate french whitneytitfuck_fa9a3b99:
 
     # wt "I'm glad. That was fun. I enjoyed it too."
-    wt "Je suis contente. C'était amusant. J'ai apprécié aussi."
+    wt "Je suis contente. C'était amusant. Moi aussi j'ai apprécié."
 
