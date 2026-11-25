@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:14
 translate french whitneycunnilingus_42c148b0:
@@ -10,7 +10,7 @@ translate french whitneycunnilingus_42c148b0:
 translate french whitneycunnilingus_e82bf66a:
 
     # wt "You want to put your mouth on me? Are you sure?"
-    wt "Tu veux me prendre dans ta bouche ? T'es sûre ?"
+    wt "Tu veux poser ta bouche sur moi ? Tu es sûr ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:16
 translate french whitneycunnilingus_2951ed74:
@@ -46,7 +46,7 @@ translate french whitneycunnilingus_599f8386:
 translate french whitneycunnilingus_e1cffbb2:
 
     # wt "I have feeling down there, but it's a little numb compared to other people."
-    wt "Je sens des sensations là-dessous, mais c’est un peu engourdi par rapport à d’autres personnes."
+    wt "J'ai des sensations à cet endroit, mais elles sont un peu atténuées par rapport aux autres."
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:26
 translate french whitneycunnilingus_083da10e:
@@ -178,13 +178,13 @@ translate french whitneycunnilingus_fc4a224d:
 translate french whitneycunnilingus_4a87a30f:
 
     # wt "Wow, you are very good at that."
-    wt "Ouah, tu es vraiment doué pour ça."
+    wt "Waouh, tu es vraiment doué pour ça."
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:65
 translate french whitneycunnilingus_b126ab05:
 
     # wt "I have never had an orgasm like that before. Not even close."
-    wt "Je n'ai jamais eu un orgasme comme ça avant. Même pas proche."
+    wt "Je n'avais jamais eu un orgasme pareil. Et de loin."
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:66
 translate french whitneycunnilingus_228fef76:
@@ -202,7 +202,7 @@ translate french whitneycunnilingus_0feea2b9:
 translate french whitneycunnilingus_212cbb08:
 
     # wt "It wasn't bad down there?"
-    wt "C'était pas mal là en bas ?"
+    wt "Ce n'était pas trop désagréable, là en bas ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:73
 translate french whitneycunnilingus_dbb45450:
@@ -214,13 +214,13 @@ translate french whitneycunnilingus_dbb45450:
 translate french whitneycunnilingus_a14b050a:
 
     # pc "And I like making you feel good like that."
-    pc "Et j'aime te faire du bien comme ça."
+    pc "Et j'aime te donner du plaisir comme ça."
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:75
 translate french whitneycunnilingus_5f224046:
 
     # wt "It felt incredible. Thank you for making me feel that good."
-    wt "C'était incroyable. Merci de m'avoir fait du bien comme ça."
+    wt "C'était incroyable. Merci de m'avoir fait autant de bien."
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:76
 translate french whitneycunnilingus_c46a0b54:
