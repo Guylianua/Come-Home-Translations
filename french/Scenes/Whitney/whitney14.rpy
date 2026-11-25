@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/whitney14.rpy:18
 translate french whitney14_50df7566:
 
     # "My phone buzzes in my pocket. Whitney's calling."
-    "Mon téléphone vibre dans ma poche. C’est Whitney qui appelle."
+    "Mon téléphone vibre dans ma poche. C'est Whitney qui appelle."
 
 # game/Scenes/Whitney/whitney14.rpy:22
 translate french whitney14_9baa4d84:
 
     # wt "Are you ready?"
-    wt "Tu es prêt ?"
+    wt "Es-tu prêt ?"
 
 # game/Scenes/Whitney/whitney14.rpy:23
 translate french whitney14_8a4963b6:
@@ -22,19 +22,19 @@ translate french whitney14_8a4963b6:
 translate french whitney14_ab83914e:
 
     # wt "To move forward with the next step of the plan."
-    wt "Pour passer à la prochaine étape du plan."
+    wt "À passer à l'étape suivante du plan."
 
 # game/Scenes/Whitney/whitney14.rpy:25
 translate french whitney14_191f52bf:
 
     # pc "What {i}is{/i} the next step?"
-    pc "Quelle est la prochaine étape ?"
+    pc "C'est {i}quoi{/i}, la prochaine étape ?"
 
 # game/Scenes/Whitney/whitney14.rpy:27
 translate french whitney14_d8555685:
 
     # wt "We need diamonds. Two large diamonds."
-    wt "On a besoin de diamants. Deux gros diamants."
+    wt "Il nous faut des diamants. Deux gros diamants."
 
 # game/Scenes/Whitney/whitney14.rpy:28
 translate french whitney14_6121f377:
@@ -46,7 +46,7 @@ translate french whitney14_6121f377:
 translate french whitney14_e03107d2:
 
     # wt "We're not going to pay for them."
-    wt "On ne va pas les payer."
+    wt "Nous n'allons pas les payer."
 
 # game/Scenes/Whitney/whitney14.rpy:31
 translate french whitney14_5bb78b12:
@@ -58,7 +58,7 @@ translate french whitney14_5bb78b12:
 translate french whitney14_68482c5f:
 
     # wt "We're going to steal them, just like I did with your dad."
-    wt "On va les voler, comme je l’ai fait avec ton père."
+    wt "Nous allons les voler, comme je l'ai fait avec ton père."
 
 # game/Scenes/Whitney/whitney14.rpy:33
 translate french whitney14_b16d9c4d:
@@ -70,19 +70,19 @@ translate french whitney14_b16d9c4d:
 translate french whitney14_e7291356:
 
     # wt "The ones that we need, at the purity level that we require, are beyond even the money that I have available."
-    wt "Ceux dont on a besoin, avec le niveau de pureté qu'on exige, dépassent même les moyens dont je dispose."
+    wt "Ceux dont nous avons besoin, au degré de pureté requis, dépassent même les fonds dont je dispose."
 
 # game/Scenes/Whitney/whitney14.rpy:36
 translate french whitney14_18b47f23:
 
     # wt "Besides, these diamonds were not humanely harvested. I don't feel bad about stealing from these greedy companies."
-    wt "En plus, ces diamants n'ont pas été extraits dans des conditions humaines. Ça ne me dérange pas de voler ces entreprises cupides."
+    wt "D'ailleurs, ces diamants n'ont pas été extraits de manière éthique. Je n'éprouve aucun scrupule à voler ces entreprises cupides."
 
 # game/Scenes/Whitney/whitney14.rpy:37
 translate french whitney14_79651c65:
 
     # wt "What we are doing with them is far more important than some aristocrat wearing it on her finger."
-    wt "Ce qu'on va en faire est bien plus important que le fait qu'une aristocrate les porte à son doigt."
+    wt "Ce que nous allons en faire est bien plus important que de les voir briller au doigt d'une aristocrate."
 
 # game/Scenes/Whitney/whitney14.rpy:38
 translate french whitney14_c5daad32:
@@ -100,7 +100,7 @@ translate french whitney14_09e85fe5:
 translate french whitney14_30dd8227:
 
     # pc "I have to go in?"
-    pc "Je dois entrer ?"
+    pc "C'est moi qui dois entrer ?"
 
 # game/Scenes/Whitney/whitney14.rpy:43
 translate french whitney14_87885119:
@@ -112,7 +112,7 @@ translate french whitney14_87885119:
 translate french whitney14_2416510e:
 
     # wt "But I've arranged everything. You won't get caught. Just like your father didn't get caught when he did this before."
-    wt "Mais j’ai tout organisé. Tu ne te feras pas prendre. Tout comme ton père ne s’est pas fait prendre quand il l’a fait avant."
+    wt "Mais j'ai tout organisé. Tu ne te feras pas prendre. Tout comme ton père ne s'est pas fait prendre la dernière fois."
 
 # game/Scenes/Whitney/whitney14.rpy:45
 translate french whitney14_f06e3a9b:
@@ -130,7 +130,7 @@ translate french whitney14_d1a56e79:
 translate french whitney14_ed2f7d18:
 
     # wt "Just trust me. I know what I'm doing here. Come to my house and we'll get ready."
-    wt "Fais-moi confiance. Je sais ce que je fais. Viens chez moi et on se préparera."
+    wt "Fais-moi confiance. Je sais ce que je fais. Viens chez moi et nous nous préparerons."
 
 # game/Scenes/Whitney/whitney14.rpy:50
 translate french whitney14_50df7566_1:
@@ -142,7 +142,7 @@ translate french whitney14_50df7566_1:
 translate french whitney14_6b748407:
 
     # wt "Are you ready to take the diamonds?"
-    wt "Tu es prêt à prendre les diamants ?"
+    wt "Es-tu prêt à t'emparer des diamants ?"
 
 # game/Scenes/Whitney/whitney14.rpy:55
 translate french whitney14_f8d534ae:
@@ -154,13 +154,13 @@ translate french whitney14_f8d534ae:
 translate french whitney14_d9b8f3ae:
 
     # wt "No better time."
-    wt "C'est le moment idéal."
+    wt "Le moment ne pourrait être mieux choisi."
 
 # game/Scenes/Whitney/whitney14.rpy:59
 translate french whitney14_355c90d9:
 
     # rj "Whoa! Holupaminute!"
-    rj "Whoa ! Attends une minute !"
+    rj "Ouh là ! Minute papillon !"
 
 # game/Scenes/Whitney/whitney14.rpy:62
 translate french rjwhitneywarning_73195949:
@@ -196,7 +196,7 @@ translate french rjwhitneywarning_9f0eac4a:
 translate french rjwhitneywarning_369e3555:
 
     # rj "It's up to you. If you tell her that you don't want to do it tonight, she'll call you again next Saturday night."
-    rj "C'est à toi de voir. Si tu lui dis que tu ne veux pas le faire ce soir, elle t'appellera à nouveau samedi soir prochain."
+    rj "C'est à toi de voir. Si tu lui dis que tu ne veux pas le faire ce soir, elle te rappellera le samedi soir suivant."
 
 # game/Scenes/Whitney/whitney14.rpy:70
 translate french rjwhitneywarning_63505504:
@@ -220,7 +220,7 @@ translate french rjwhitneywarning_3a9d25c3:
 translate french rjwhitneywarning_49e2edaf:
 
     # wt "Great, come over to my lab and we'll get ready."
-    wt "Super, passe à mon labo et on se préparera."
+    wt "Parfait, viens à mon laboratoire et nous nous préparerons."
 
 # game/Scenes/Whitney/whitney14.rpy:85
 translate french rjwhitneywarning_a7e78a4e:
@@ -238,13 +238,13 @@ translate french rjwhitneywarning_19b39e94:
 translate french rjwhitneywarning_76d673a0:
 
     # wt "Okay."
-    wt "OK."
+    wt "D'accord."
 
 # game/Scenes/Whitney/whitney14.rpy:90
 translate french rjwhitneywarning_c22c8a75:
 
     # wt "We should do this soon though, if we are going to do it."
-    wt "Mais on devrait le faire bientôt, si on doit le faire."
+    wt "Mais il faudrait le faire bientôt, si nous le faisons."
 
 # game/Scenes/Whitney/whitney14.rpy:91
 translate french rjwhitneywarning_23677720:
@@ -262,19 +262,19 @@ translate french rjwhitneywarning_395cd6d9:
 translate french rjwhitneywarning_2adac8aa:
 
     # wt "Okay. We can try next week then."
-    wt "D'accord. On peut essayer la semaine prochaine alors."
+    wt "D'accord. Nous pourrons essayer la semaine prochaine, alors."
 
 # game/Scenes/Whitney/whitney14.rpy:95
 translate french rjwhitneywarning_0db4d881:
 
     # wt "I'll talk to you later, [pcname]."
-    wt "Je te parle plus tard, [pcname]."
+    wt "À plus tard, [pcname]."
 
 # game/Scenes/Whitney/whitney14.rpy:96
 translate french rjwhitneywarning_663246d7:
 
     # pc "Okay. Bye, Whitney."
-    pc "D'accord. Salut, Whitney."
+    pc "D'accord. Au revoir, Whitney."
 
 # game/Scenes/Whitney/whitney14.rpy:99
 translate french rjwhitneywarning_012c7d57:
@@ -292,7 +292,7 @@ translate french rjwhitneywarning_514c7ad2:
 translate french rjwhitneywarning_8652a2fb:
 
     # "I arrive at her house and walk through the courtyard towards the front door."
-    "J'arrive chez elle et traverse la cour en direction de la porte d'entrée."
+    "J'arrive chez elle et je traverse la cour en direction de la porte d'entrée."
 
 # game/Scenes/Whitney/whitney14.rpy:109
 translate french rjwhitneywarning_7bd312b7:
@@ -304,7 +304,7 @@ translate french rjwhitneywarning_7bd312b7:
 translate french rjwhitneywarning_1bb0325b:
 
     # wt "Hi, [pcname]. I'm in the lab. The door is unlocked."
-    wt "Salut, [pcname]. Je suis dans le labo. La porte n'est pas fermée à clé."
+    wt "Bonsoir, [pcname]. Je suis au laboratoire. La porte n'est pas verrouillée."
 
 # game/Scenes/Whitney/whitney14.rpy:113
 translate french rjwhitneywarning_dc712c6d:
@@ -316,7 +316,7 @@ translate french rjwhitneywarning_dc712c6d:
 translate french rjwhitneywarning_5214e180:
 
     # wt "Your clothing is in the back of the van. Go ahead and get changed."
-    wt "Tes vêtements sont à l'arrière du van. Va t'habiller."
+    wt "Tes vêtements sont à l'arrière du van. Va te changer."
 
 # game/Scenes/Whitney/whitney14.rpy:115
 translate french rjwhitneywarning_b37180b5:
@@ -328,7 +328,7 @@ translate french rjwhitneywarning_b37180b5:
 translate french rjwhitneywarning_61bb1ca5:
 
     # wt "Yes, you do. Everybody is going to know it's you in that blue shirt."
-    wt "Oui, c'est nécessaire. Tout le monde va te reconnaître avec cette chemise bleue."
+    wt "Oui. Avec cette chemise bleue, tout le monde saurait que c'est toi."
 
 # game/Scenes/Whitney/whitney14.rpy:117
 translate french rjwhitneywarning_c33734b6:
@@ -346,31 +346,31 @@ translate french rjwhitneywarning_a3f1d669:
 translate french rjwhitneywarning_f46c6704:
 
     # pc "Is this really necessary?"
-    pc "Est-ce vraiment nécessaire ?"
+    pc "C'est vraiment nécessaire ?"
 
 # game/Scenes/Whitney/whitney14.rpy:124
 translate french rjwhitneywarning_ec008765:
 
     # wt "Yes, if you don't want to be recognized on camera."
-    wt "Oui, si tu ne veux pas être reconnu par les caméras."
+    wt "Oui, si tu ne veux pas être reconnu sur les images des caméras."
 
 # game/Scenes/Whitney/whitney14.rpy:125
 translate french rjwhitneywarning_56afcb31:
 
     # wt "I was able to plot a route that would avoid getting the van on camera, but I cannot do anything about the cameras inside the building."
-    wt "J'ai réussi à tracer un itinéraire qui éviterait que le van soit filmé, mais je ne peux rien faire contre les caméras à l'intérieur du bâtiment."
+    wt "J'ai pu tracer un itinéraire qui évite au van d'être filmé, mais je ne peux rien contre les caméras à l'intérieur du bâtiment."
 
 # game/Scenes/Whitney/whitney14.rpy:126
 translate french rjwhitneywarning_2c6002d9:
 
     # pc "So, fill me in. What is the crazy plan here?"
-    pc "Alors, explique-moi. C'est quoi ce plan de fous ?"
+    pc "Alors, explique-moi. C'est quoi, ce plan de fou ?"
 
 # game/Scenes/Whitney/whitney14.rpy:129
 translate french rjwhitneywarning_506ca14d:
 
     # wt "I am going to park over here where you will get out and make your way to the back entrance of the jewelry store..."
-    wt "Je vais me garer là-bas, tu descendras et tu te dirigeras vers l'entrée arrière de la bijouterie..."
+    wt "Je vais me garer par là ; tu descendras et tu rejoindras l'entrée arrière de la bijouterie..."
 
 # game/Scenes/Whitney/whitney14.rpy:132
 translate french rjwhitneywarning_6b7981aa:
@@ -382,7 +382,7 @@ translate french rjwhitneywarning_6b7981aa:
 translate french rjwhitneywarning_c840c904:
 
     # wt "The store has a deadbolt that requires a key, but I have a solution for that."
-    wt "La boutique a un verrou qui nécessite une clé, mais j'ai une solution pour ça."
+    wt "La boutique a un verrou de sûreté qui s'ouvre avec une clé, mais j'ai une solution pour cela."
 
 # game/Scenes/Whitney/whitney14.rpy:136
 translate french rjwhitneywarning_cb3653db:
@@ -394,7 +394,7 @@ translate french rjwhitneywarning_cb3653db:
 translate french rjwhitneywarning_1ba42d5f:
 
     # wt "I'm sure it will work on the door there."
-    wt "Je suis sûr que ça marchera sur cette porte-là."
+    wt "Je suis sûre que cela fonctionnera sur cette porte."
 
 # game/Scenes/Whitney/whitney14.rpy:138
 translate french rjwhitneywarning_368080b9:
@@ -406,7 +406,7 @@ translate french rjwhitneywarning_368080b9:
 translate french rjwhitneywarning_cb7a5d6f:
 
     # wt "It was. I modified it. Now it's a lockpicking gun."
-    wt "Ça l'était. Je l'ai modifié. Maintenant, c'est un pistolet pour crocheter les serrures."
+    wt "C'en était un. Je l'ai modifié. C'est maintenant un pistolet crocheteur."
 
 # game/Scenes/Whitney/whitney14.rpy:140
 translate french rjwhitneywarning_880b4aa8:
@@ -418,19 +418,19 @@ translate french rjwhitneywarning_880b4aa8:
 translate french rjwhitneywarning_18b9d86b:
 
     # pc "So, that's it? Just zap the lock and I'm in?"
-    pc "Alors, c'est tout ? Il suffit de tirer sur la serrure et je suis dedans ?"
+    pc "Alors, c'est tout ? Je tire sur la serrure et je suis dedans ?"
 
 # game/Scenes/Whitney/whitney14.rpy:144
 translate french rjwhitneywarning_57ed69cc:
 
     # wt "Well, yes, you'll be able to get in the building then, but there is a security system."
-    wt "Eh bien, oui, tu pourras entrer dans le bâtiment, mais il y a un système de sécurité."
+    wt "Eh bien, oui, tu pourras alors entrer dans le bâtiment, mais il y a un système de sécurité."
 
 # game/Scenes/Whitney/whitney14.rpy:145
 translate french rjwhitneywarning_b3ded7f6:
 
     # wt "Fortunately, you and I will be in contact the entire time and just before you go in, I will disable the alarms remotely."
-    wt "Heureusement, on restera en contact tout le temps et, juste avant que tu n’entres, je désactiverai les alarmes à distance."
+    wt "Heureusement, nous resterons en contact tout du long et, juste avant que tu entres, je désactiverai les alarmes à distance."
 
 # game/Scenes/Whitney/whitney14.rpy:146
 translate french rjwhitneywarning_45436a60:
@@ -442,25 +442,25 @@ translate french rjwhitneywarning_45436a60:
 translate french rjwhitneywarning_ed1b329a:
 
     # wt "Of course I can do that."
-    wt "Bien sûr que je peux."
+    wt "Bien sûr que je peux faire cela."
 
 # game/Scenes/Whitney/whitney14.rpy:150
 translate french rjwhitneywarning_6e0c3693:
 
     # wt "When you first go in, you will be in the back storage area. You'll have to make your way through there to the office, where the safe is kept."
-    wt "Quand tu entreras, tu te trouveras dans la zone de stockage à l’arrière. Tu devras traverser cette zone pour rejoindre le bureau, où se trouve le coffre-fort."
+    wt "En entrant, tu arriveras dans la réserve, à l'arrière. Tu devras la traverser pour atteindre le bureau, où se trouve le coffre-fort."
 
 # game/Scenes/Whitney/whitney14.rpy:151
 translate french rjwhitneywarning_1547e2f3:
 
     # pc "A safe? How are we supposed to get into that? Do you know the combination?"
-    pc "Un coffre-fort ? Comment est-on censés l’ouvrir ? Tu connais la combinaison ?"
+    pc "Un coffre-fort ? Comment on est censés l'ouvrir ? Tu connais la combinaison ?"
 
 # game/Scenes/Whitney/whitney14.rpy:152
 translate french rjwhitneywarning_9778d18a:
 
     # wt "Yes, actually. I do."
-    wt "Oui, en fait. Je la connais."
+    wt "Oui, figure-toi. Je la connais."
 
 # game/Scenes/Whitney/whitney14.rpy:153
 translate french rjwhitneywarning_a7d1f229:
@@ -472,13 +472,13 @@ translate french rjwhitneywarning_a7d1f229:
 translate french rjwhitneywarning_284142b3:
 
     # wt "Don't worry about that. I told you I've been working on this. I haven't just been sitting over here the whole time, twiddling my thumbs."
-    wt "Ne t'inquiète pas pour ça. Je t'ai dit que j'avais travaillé là-dessus. Je ne suis pas resté assis ici tout ce temps à me tourner les pouces."
+    wt "Ne t'en fais pas pour cela. Je t'ai dit que je travaillais là-dessus. Je ne suis pas restée assise ici à me tourner les pouces."
 
 # game/Scenes/Whitney/whitney14.rpy:155
 translate french rjwhitneywarning_b9a33198:
 
     # wt "The safe has a keypad combination. The code is 96678552."
-    wt "Le coffre-fort est équipé d'un clavier à combinaison. Le code est 96678552."
+    wt "Le coffre-fort s'ouvre avec un code sur clavier. Le code est 96678552."
 
 # game/Scenes/Whitney/whitney14.rpy:156
 translate french rjwhitneywarning_c386084f:
@@ -490,7 +490,7 @@ translate french rjwhitneywarning_c386084f:
 translate french rjwhitneywarning_ddf4be87:
 
     # wt "Once you get the safe open, you're going to have to find the diamonds. This is the only part I'm not completely sure of."
-    wt "Une fois que tu auras ouvert le coffre-fort, tu devras trouver les diamants. C'est la seule partie dont je ne suis pas tout à fait sûr."
+    wt "Une fois le coffre-fort ouvert, tu devras trouver les diamants. C'est la seule étape dont je ne sois pas tout à fait sûre."
 
 # game/Scenes/Whitney/whitney14.rpy:160
 translate french rjwhitneywarning_d61f0ea5:
@@ -502,19 +502,19 @@ translate french rjwhitneywarning_d61f0ea5:
 translate french rjwhitneywarning_0bb7be7d:
 
     # wt "They need to be real diamonds too, not the synthetic ones. The hoop will only work on real diamonds."
-    wt "Il faut que ce soient de vrais diamants, pas des synthétiques. Le cerceau ne fonctionne qu'avec de vrais diamants."
+    wt "Il faut aussi que ce soient de vrais diamants, pas des synthétiques. Le cerceau ne fonctionnera qu'avec de vrais diamants."
 
 # game/Scenes/Whitney/whitney14.rpy:162
 translate french rjwhitneywarning_7b883c0e:
 
     # wt "They are large and clear and are likely stored wrapped in tissue paper or cloth and in individual bags."
-    wt "Ils sont gros et clairs, et sont probablement rangés enveloppés dans du papier de soie ou du tissu, dans des sachets individuels."
+    wt "Ils sont gros et limpides, et sont probablement emballés dans du papier de soie ou du tissu, dans des sachets individuels."
 
 # game/Scenes/Whitney/whitney14.rpy:163
 translate french rjwhitneywarning_c8a5f5b0:
 
     # wt "I believe they're going to be near the bottom shelf of the safe."
-    wt "Je pense qu’ils se trouveront près de l’étagère du bas du coffre-fort."
+    wt "Je pense qu'ils se trouvent vers l'étagère du bas du coffre-fort."
 
 # game/Scenes/Whitney/whitney14.rpy:164
 translate french rjwhitneywarning_ff090bab:
@@ -532,37 +532,37 @@ translate french rjwhitneywarning_52c41d0c:
 translate french rjwhitneywarning_c2154aa2:
 
     # wt "There is a building across the street that has an outside camera. I was able to move that camera to where it aims directly through the front windows of the jewelry shop."
-    wt "Il y a un immeuble de l’autre côté de la rue qui est équipé d’une caméra extérieure. J’ai réussi à orienter cette caméra de manière à ce qu’elle filme directement à travers les vitrines de la bijouterie."
+    wt "Un immeuble, de l'autre côté de la rue, est équipé d'une caméra extérieure. J'ai pu la réorienter pour qu'elle filme directement à travers les vitrines de la bijouterie."
 
 # game/Scenes/Whitney/whitney14.rpy:169
 translate french rjwhitneywarning_919dc7c4:
 
     # wt "Then, by changing the visual frequency a bit, I could look through the one-way mirror and into the back office where the safe is."
-    wt "Ensuite, en modifiant légèrement la fréquence visuelle, j’ai pu regarder à travers le miroir sans tain et voir l’arrière-boutique où se trouve le coffre-fort."
+    wt "Ensuite, en modifiant légèrement la fréquence visuelle, j'ai pu voir à travers le miroir sans tain jusque dans le bureau du fond, où se trouve le coffre-fort."
 
 # game/Scenes/Whitney/whitney14.rpy:170
 translate french rjwhitneywarning_9a1523a7:
 
     # wt "Then I just watched and gathered information."
-    wt "Puis je me suis contenté d’observer et de recueillir des informations."
+    wt "Puis je me suis contentée d'observer et de recueillir des informations."
 
 # game/Scenes/Whitney/whitney14.rpy:173
 translate french rjwhitneywarning_a32a886a:
 
     # pc "You're quite scary sometimes, you know?"
-    pc "Tu es assez effrayant parfois, tu sais ?"
+    pc "Tu es assez effrayante, parfois, tu sais ?"
 
 # game/Scenes/Whitney/whitney14.rpy:174
 translate french rjwhitneywarning_6c97b1cc:
 
     # pc "I'm really glad you're not evil. You could really cause some trouble."
-    pc "Je suis vraiment contente que tu ne sois pas malveillant. Tu pourrais vraiment causer des problèmes."
+    pc "Je suis vraiment content que tu ne sois pas maléfique. Tu pourrais faire de sacrés dégâts."
 
 # game/Scenes/Whitney/whitney14.rpy:175
 translate french rjwhitneywarning_4e966f59:
 
     # wt "Yes. Yes, I could."
-    wt "Oui. Oui, je pourrais."
+    wt "Oui. Oui, je le pourrais."
 
 # game/Scenes/Whitney/whitney14.rpy:176
 translate french rjwhitneywarning_f91c3d58:
@@ -580,7 +580,7 @@ translate french rjwhitneywarning_a1b12283:
 translate french rjwhitneywarning_28d35bb9:
 
     # pc "I don't know about this. I'm really nervous."
-    pc "Je ne sais pas trop quoi penser. Je suis vraiment nerveuse."
+    pc "Je ne le sens pas trop. Je suis vraiment nerveux."
 
 # game/Scenes/Whitney/whitney14.rpy:181
 translate french rjwhitneywarning_9b33cddb:
@@ -592,13 +592,13 @@ translate french rjwhitneywarning_9b33cddb:
 translate french rjwhitneywarning_6e34f9e6:
 
     # wt "I don't know any other way for us to get these diamonds. And we need them for the hoop to work."
-    wt "Je ne vois pas d'autre moyen pour nous de récupérer ces diamants. Et on en a besoin pour que le cercle fonctionne."
+    wt "Je ne vois aucun autre moyen d'obtenir ces diamants. Et nous en avons besoin pour que le cerceau fonctionne."
 
 # game/Scenes/Whitney/whitney14.rpy:183
 translate french rjwhitneywarning_f3f1ae24:
 
     # wt "If we don't get these, we can't help your father."
-    wt "Si on ne les récupère pas, on ne pourra pas aider ton père."
+    wt "Si nous ne les obtenons pas, nous ne pourrons pas aider ton père."
 
 # game/Scenes/Whitney/whitney14.rpy:186
 translate french rjwhitneywarning_ab964844:
@@ -610,7 +610,7 @@ translate french rjwhitneywarning_ab964844:
 translate french rjwhitneywarning_9745900d:
 
     # pc "I want to help my dad."
-    pc "Je veux aider mon père."
+    pc "Je veux aider mon Papa."
 
 # game/Scenes/Whitney/whitney14.rpy:188
 translate french rjwhitneywarning_60450ec1:
@@ -628,13 +628,13 @@ translate french rjwhitneywarning_c043f0da:
 translate french rjwhitneywarning_300fe449:
 
     # "I walk towards the back door of the jewelry store, trying to put out of my mind that I am about to commit several felonies."
-    "Je me dirige vers la porte de derrière de la bijouterie, en essayant de chasser de mon esprit le fait que je m'apprête à commettre plusieurs délits."
+    "Je me dirige vers la porte de derrière de la bijouterie, en essayant de chasser de mon esprit le fait que je m'apprête à commettre plusieurs crimes."
 
 # game/Scenes/Whitney/whitney14.rpy:194
 translate french rjwhitneywarning_f420f87a:
 
     # "If I get caught, I'll be doing some serious time in jail."
-    "Si je me fais prendre, je vais passer un sacré bout de temps en prison."
+    "Si je me fais prendre, je risque de passer un sacré bout de temps en prison."
 
 # game/Scenes/Whitney/whitney14.rpy:195
 translate french rjwhitneywarning_2e181695:
@@ -688,13 +688,13 @@ translate french rjwhitneywarning_f9d08068:
 translate french rjwhitneywarning_a1ce47ba:
 
     # wt "Just keep your mask on and do what we said."
-    wt "Garde juste ton masque et fais ce qu'on a dit."
+    wt "Garde simplement ton masque et fais ce que nous avons dit."
 
 # game/Scenes/Whitney/whitney14.rpy:208
 translate french rjwhitneywarning_4ed59931:
 
     # pc "Okay, I'm using the lockpick gun right now."
-    pc "OK, j'utilise le pistolet à crocheter en ce moment."
+    pc "OK, j'utilise le pistolet crocheteur, là."
 
 # game/Scenes/Whitney/whitney14.rpy:211
 translate french rjwhitneywarning_0bca3b74:
@@ -706,19 +706,19 @@ translate french rjwhitneywarning_0bca3b74:
 translate french rjwhitneywarning_d4ab1a6d:
 
     # "I do what she says and it makes a loud clicking noise, then I feel the lock turn and the handle loosens."
-    "Je fais ce qu'elle dit et ça fait un grand clic, puis je sens la serrure tourner et la poignée se desserrer."
+    "Je fais ce qu'elle dit et il émet un clic sonore, puis je sens la serrure tourner et la poignée céder."
 
 # game/Scenes/Whitney/whitney14.rpy:215
 translate french rjwhitneywarning_4a1e0631:
 
     # pc "I'm in."
-    pc "Je suis dedans."
+    pc "Je suis entré."
 
 # game/Scenes/Whitney/whitney14.rpy:216
 translate french rjwhitneywarning_6f8a5328:
 
     # wt "Good job. Now just take it easy. You're not in a rush."
-    wt "Bravo. Maintenant, vas-y doucement. Tu n'es pas pressé."
+    wt "Bravo. Maintenant, prends ton temps. Rien ne presse."
 
 # game/Scenes/Whitney/whitney14.rpy:217
 translate french rjwhitneywarning_531832c7:
@@ -730,19 +730,19 @@ translate french rjwhitneywarning_531832c7:
 translate french rjwhitneywarning_ebcb895b:
 
     # wt "Red light? It's just the security lights probably, don't worry about it."
-    wt "Un voyant rouge ? C'est sûrement juste les lumières de sécurité, ne t'en fais pas."
+    wt "Un voyant rouge ? Ce sont sûrement les voyants de sécurité, ne t'en fais pas."
 
 # game/Scenes/Whitney/whitney14.rpy:219
 translate french rjwhitneywarning_781867f4:
 
     # wt "Make your way in through the storage area and into the office, then go left to find the safe."
-    wt "Traverse la zone de stockage pour entrer dans le bureau, puis tourne à gauche pour trouver le coffre-fort."
+    wt "Traverse la réserve jusqu'au bureau, puis va à gauche pour trouver le coffre-fort."
 
 # game/Scenes/Whitney/whitney14.rpy:220
 translate french rjwhitneywarning_67a83756:
 
     # pc "Okay, I'm going inside."
-    pc "D'accord, j'y vais."
+    pc "D'accord, j'entre."
 
 # game/Scenes/Whitney/whitney14.rpy:223
 translate french rjwhitneywarning_aebc2109:
@@ -754,7 +754,7 @@ translate french rjwhitneywarning_aebc2109:
 translate french rjwhitneywarning_e77bbc81:
 
     # "Every second, I expect to hear sirens, or to hear somebody yell at me or to see somebody pop out from behind a corner."
-    "À chaque seconde, je m'attends à entendre des sirènes, à entendre quelqu'un me crier dessus ou à voir quelqu'un surgir d'un coin."
+    "À chaque seconde, je m'attends à entendre des sirènes, à ce qu'on me crie dessus ou à voir quelqu'un surgir d'un recoin."
 
 # game/Scenes/Whitney/whitney14.rpy:225
 translate french rjwhitneywarning_28a77d2c:
@@ -772,13 +772,13 @@ translate french rjwhitneywarning_e5081e4c:
 translate french rjwhitneywarning_a294f15c:
 
     # "There's a window looking out into the showroom floor and then out onto the street beyond."
-    "Il y a une fenêtre qui donne sur le showroom, puis sur la rue au-delà."
+    "Il y a une fenêtre qui donne sur la salle d'exposition, et au-delà sur la rue."
 
 # game/Scenes/Whitney/whitney14.rpy:230
 translate french rjwhitneywarning_2c57b678:
 
     # pc "This window in here is one way, right?"
-    pc "Cette fenêtre est sans issue, n'est-ce pas ?"
+    pc "Cette vitre est sans tain, hein ?"
 
 # game/Scenes/Whitney/whitney14.rpy:231
 translate french rjwhitneywarning_5b80ecfd:
@@ -790,7 +790,7 @@ translate french rjwhitneywarning_5b80ecfd:
 translate french rjwhitneywarning_2324eaa7:
 
     # wt "The safe is behind a mirror on the opposite side of the window. There's a keypad to the right of it."
-    wt "Le coffre-fort se trouve derrière un miroir, de l'autre côté de la fenêtre. Il y a un clavier à droite de celui-ci."
+    wt "Le coffre-fort est derrière un miroir, sur le mur opposé à la fenêtre. Il y a un clavier à sa droite."
 
 # game/Scenes/Whitney/whitney14.rpy:235
 translate french rjwhitneywarning_443a82ad:
@@ -802,7 +802,7 @@ translate french rjwhitneywarning_443a82ad:
 translate french rjwhitneywarning_4c06e02c:
 
     # wt "Good. Let me know when you're ready and I'll read you the code again."
-    wt "Bien. Dis-moi quand tu es prêt et je te redonnerai le code."
+    wt "Bien. Dis-moi quand tu es prêt, et je te redonnerai le code."
 
 # game/Scenes/Whitney/whitney14.rpy:239
 translate french rjwhitneywarning_c7de4069:
@@ -820,19 +820,19 @@ translate french rjwhitneywarning_e95b465f:
 translate french rjwhitneywarning_e5efc8d0:
 
     # "I poke the code in, careful to get every number correct, and when I press the final number, there is an audible click that makes me jump back a bit and the safe door opens up slightly."
-    "Je tape le code, en prenant soin de bien entrer chaque chiffre, et quand j’appuie sur le dernier chiffre, j’entends un clic qui me fait sursauter un peu et la porte du coffre-fort s’ouvre légèrement."
+    "Je tape le code en prenant soin de ne pas me tromper, et quand j'appuie sur le dernier chiffre, un clic retentit et me fait sursauter ; la porte du coffre-fort s'entrouvre."
 
 # game/Scenes/Whitney/whitney14.rpy:244
 translate french rjwhitneywarning_01540178:
 
     # pc "It's open. There's a bunch of boxes in here. You said they're at the bottom?"
-    pc "C’est ouvert. Il y a plein de boîtes là-dedans. Tu as dit qu’elles étaient en bas ?"
+    pc "C'est ouvert. Il y a plein de boîtes là-dedans. Tu as dit qu'ils étaient en bas ?"
 
 # game/Scenes/Whitney/whitney14.rpy:245
 translate french rjwhitneywarning_0a9be0ab:
 
     # wt "Yes, it was on the lowest shelf. I think the box second from the right. They might all have gems in them though."
-    wt "Oui, c’était sur l’étagère du bas. Je crois que c’est la deuxième boîte à partir de la droite. Mais elles contiennent peut-être toutes des pierres précieuses."
+    wt "Oui, sur l'étagère du bas. Je crois que c'est la deuxième boîte en partant de la droite. Mais il est possible qu'elles contiennent toutes des pierres précieuses."
 
 # game/Scenes/Whitney/whitney14.rpy:246
 translate french rjwhitneywarning_9ba477c1:
@@ -844,7 +844,7 @@ translate french rjwhitneywarning_9ba477c1:
 translate french rjwhitneywarning_10d5b864:
 
     # pc "I think I found it. Box full of baggies."
-    pc "Je crois que je l'ai trouvée. Une boîte pleine de sachets."
+    pc "Je crois que je l'ai trouvée. Une boîte pleine de petits sachets."
 
 # game/Scenes/Whitney/whitney14.rpy:250
 translate french rjwhitneywarning_489b7a28:
@@ -862,25 +862,25 @@ translate french rjwhitneywarning_8f2a60f7:
 translate french rjwhitneywarning_5ed231d1:
 
     # wt "Okay, so you need to find two diamonds that are above four carats."
-    wt "Bon, tu dois trouver deux diamants de plus de quatre carats."
+    wt "Bien. Tu dois trouver deux diamants de plus de quatre carats."
 
 # game/Scenes/Whitney/whitney14.rpy:255
 translate french rjwhitneywarning_b88ab616:
 
     # pc "There are like a hundred here. And they seem to be mostly around one or two carats."
-    pc "Il y en a une centaine ici. Et ils semblent être pour la plupart d'environ un ou deux carats."
+    pc "Il y en a genre une centaine. Et la plupart font à peu près un ou deux carats."
 
 # game/Scenes/Whitney/whitney14.rpy:256
 translate french rjwhitneywarning_982cf386:
 
     # wt "Keep looking, I know they have--"
-    wt "Continue à chercher, je sais qu’il y en a..."
+    wt "Continue de chercher, je sais qu'ils en ont…"
 
 # game/Scenes/Whitney/whitney14.rpy:259
 translate french rjwhitneywarning_66c62f1f:
 
     # wt "Wait, we have trouble."
-    wt "Attends, on a un problème."
+    wt "Attends, nous avons un problème."
 
 # game/Scenes/Whitney/whitney14.rpy:260
 translate french rjwhitneywarning_06b7e2ed:
@@ -892,7 +892,7 @@ translate french rjwhitneywarning_06b7e2ed:
 translate french rjwhitneywarning_20183cb0:
 
     # wt "Just grab the whole box and get back to the van, now!"
-    wt "Prends juste la boîte entière et retourne à la camionnette, tout de suite !"
+    wt "Prends toute la boîte et retourne au van, tout de suite !"
 
 # game/Scenes/Whitney/whitney14.rpy:264
 translate french rjwhitneywarning_06b7e2ed_1:
@@ -904,7 +904,7 @@ translate french rjwhitneywarning_06b7e2ed_1:
 translate french rjwhitneywarning_5e922de0:
 
     # wt "There must have been alarm that trips if the safe is opened after hours."
-    wt "Il devait y avoir une alarme qui se déclenche si le coffre-fort est ouvert en dehors des heures d’ouverture."
+    wt "Il devait y avoir une alarme qui se déclenche si l'on ouvre le coffre-fort après la fermeture."
 
 # game/Scenes/Whitney/whitney14.rpy:266
 translate french rjwhitneywarning_a55a8f63:
@@ -934,19 +934,19 @@ translate french rjwhitneywarning_9a863f2c:
 translate french rjwhitneywarning_93d5691d:
 
     # wt "We don't have time to find the ones we need!"
-    wt "On n'a pas le temps de trouver ceux qu'il nous faut !"
+    wt "Nous n'avons pas le temps de trouver ceux qu'il nous faut !"
 
 # game/Scenes/Whitney/whitney14.rpy:273
 translate french rjwhitneywarning_82973158:
 
     # wt "We can worry about it later!"
-    wt "On s'en occupera plus tard !"
+    wt "Nous nous en occuperons plus tard !"
 
 # game/Scenes/Whitney/whitney14.rpy:274
 translate french rjwhitneywarning_5e222076:
 
     # wt "Get to the back door, I'm coming to pick you up!"
-    wt "Va à la porte de derrière, j'arrive te chercher !"
+    wt "Va à la porte de derrière, je viens te chercher !"
 
 # game/Scenes/Whitney/whitney14.rpy:277
 translate french rjwhitneywarning_589b95c3:
@@ -970,25 +970,25 @@ translate french rjwhitneywarning_e73fc520:
 translate french rjwhitneywarning_9fbc7499:
 
     # "I jump into the passenger seat and close the door."
-    "Je saute sur le siège passager et ferme la porte."
+    "Je saute sur le siège passager et je ferme la porte."
 
 # game/Scenes/Whitney/whitney14.rpy:283
 translate french rjwhitneywarning_0adad4cb:
 
     # "The van barely comes to a complete stop before Whitney takes off again."
-    "La camionnette a à peine le temps de s'arrêter complètement que Whitney redémarre déjà."
+    "Le van a à peine le temps de s'arrêter que Whitney redémarre."
 
 # game/Scenes/Whitney/whitney14.rpy:286
 translate french rjwhitneywarning_2792011a:
 
     # wt "Did you get the right ones? Look through there and see if there's two diamonds above four carats."
-    wt "Tu as pris les bons ? Regarde là-dedans et vois s'il y a deux diamants de plus de quatre carats."
+    wt "As-tu pris les bons ? Regarde là-dedans s'il y a deux diamants de plus de quatre carats."
 
 # game/Scenes/Whitney/whitney14.rpy:287
 translate french rjwhitneywarning_72bbb45b:
 
     # "I dig through the box while Whitney drives frantically, taking the turns way too fast, my pulse still racing."
-    "Je fouille dans la boîte pendant que Whitney conduit à toute vitesse, prenant les virages bien trop vite, mon pouls toujours à toute allure."
+    "Je fouille dans la boîte pendant que Whitney conduit à toute allure, prenant les virages bien trop vite, le pouls toujours affolé."
 
 # game/Scenes/Whitney/whitney14.rpy:290
 translate french rjwhitneywarning_212a14ef:
@@ -1012,7 +1012,7 @@ translate french rjwhitneywarning_5e27f974:
 translate french rjwhitneywarning_92aba439:
 
     # wt "Wait till we get back to my house. We're almost in the clear."
-    wt "Attends qu'on soit de retour chez moi. On est presque tirés d'affaire."
+    wt "Attends que nous soyons rentrés chez moi. Nous sommes presque tirés d'affaire."
 
 # game/Scenes/Whitney/whitney14.rpy:296
 translate french rjwhitneywarning_96281544:
@@ -1024,7 +1024,7 @@ translate french rjwhitneywarning_96281544:
 translate french rjwhitneywarning_016dba66:
 
     # pc "Yes, I did. I am now a diamond thief."
-    pc "Oui, j'ai réussi. Je suis désormais une voleuse de diamants."
+    pc "Oui, j'ai réussi. Me voilà voleur de diamants."
 
 # game/Scenes/Whitney/whitney14.rpy:298
 translate french rjwhitneywarning_a4f3809c:
@@ -1036,7 +1036,7 @@ translate french rjwhitneywarning_a4f3809c:
 translate french rjwhitneywarning_557a741e:
 
     # wt "I don't know. Fund other projects? Who knows, we may need them to get your father back. They will have a use."
-    wt "Je ne sais pas. Financer d’autres projets ? Qui sait, on en aura peut-être besoin pour récupérer ton père. Ils serviront à quelque chose."
+    wt "Je ne sais pas. Financer d'autres projets ? Qui sait, nous en aurons peut-être besoin pour ramener ton père. Ils serviront."
 
 # game/Scenes/Whitney/whitney14.rpy:300
 translate french rjwhitneywarning_09a265e5:
@@ -1048,37 +1048,37 @@ translate french rjwhitneywarning_09a265e5:
 translate french rjwhitneywarning_23b2d4a7:
 
     # wt "Whatever we use them for it will be for a greater purpose than jewelry."
-    wt "Peu importe ce qu’on en fera, ce sera pour une cause plus noble que la joaillerie."
+    wt "Quel que soit l'usage que nous en ferons, ce sera pour une cause plus noble que la joaillerie."
 
 # game/Scenes/Whitney/whitney14.rpy:304
 translate french rjwhitneywarning_d8c025fe:
 
     # pc "I'm sorry, but this is all so much. I feel really conflicted about it."
-    pc "Je suis désolée, mais tout ça, c’est trop. Je me sens vraiment partagée."
+    pc "Je suis désolé, mais tout ça, c'est trop. Je me sens vraiment partagé."
 
 # game/Scenes/Whitney/whitney14.rpy:305
 translate french rjwhitneywarning_0228ab4a:
 
     # pc "You don't feel bad that we just broke the law and stole several thousand dollars worth of diamonds?"
-    pc "Tu ne te sens pas mal à l’aise d’avoir enfreint la loi et volé pour plusieurs milliers de dollars de diamants ?"
+    pc "Tu n'as pas mauvaise conscience d'avoir enfreint la loi et volé pour plusieurs milliers de dollars de diamants ?"
 
 # game/Scenes/Whitney/whitney14.rpy:306
 translate french rjwhitneywarning_74d8401f:
 
     # wt "It's more like several hundred thousand dollars worth."
-    wt "C'est plutôt plusieurs centaines de milliers de dollars."
+    wt "Plutôt pour plusieurs centaines de milliers de dollars."
 
 # game/Scenes/Whitney/whitney14.rpy:307
 translate french rjwhitneywarning_3b11b6ba:
 
     # pc "What the fuck, really!?"
-    pc "C'est quoi ce bordel, sérieusement ?!"
+    pc "Putain, sérieux ?!"
 
 # game/Scenes/Whitney/whitney14.rpy:308
 translate french rjwhitneywarning_210e65ff:
 
     # wt "Yes, the four carat diamonds alone are valued at over $100,000 each."
-    wt "Oui, rien que les diamants de quatre carats valent chacun plus de 100 000 dollars."
+    wt "Oui, rien que les diamants de quatre carats valent plus de 100 000 dollars chacun."
 
 # game/Scenes/Whitney/whitney14.rpy:309
 translate french rjwhitneywarning_b74f3f5d:
@@ -1090,13 +1090,13 @@ translate french rjwhitneywarning_b74f3f5d:
 translate french rjwhitneywarning_bba46494:
 
     # wt "To answer your question, no, I do not feel bad about it."
-    wt "Pour répondre à ta question, non, je ne me sens pas mal à ce sujet."
+    wt "Pour répondre à ta question, non, je n'ai pas mauvaise conscience."
 
 # game/Scenes/Whitney/whitney14.rpy:313
 translate french rjwhitneywarning_44524cb3:
 
     # wt "We did not hurt anybody. What we are doing will help people."
-    wt "On n'a fait de mal à personne. Ce qu'on fait va aider des gens."
+    wt "Nous n'avons fait de mal à personne. Ce que nous faisons aidera des gens."
 
 # game/Scenes/Whitney/whitney14.rpy:314
 translate french rjwhitneywarning_aa32b9ba:
@@ -1108,19 +1108,19 @@ translate french rjwhitneywarning_aa32b9ba:
 translate french rjwhitneywarning_8a64798d:
 
     # wt "I don't know about you, but that got my heart pumping really good."
-    wt "Je ne sais pas pour toi, mais ça m'a vraiment fait battre le cœur."
+    wt "Je ne sais pas pour toi, mais cela m'a sacrément fait battre le cœur."
 
 # game/Scenes/Whitney/whitney14.rpy:319
 translate french rjwhitneywarning_ea619a7a:
 
     # wt "I feel very stimulated right now."
-    wt "Je me sens très excité en ce moment."
+    wt "Je me sens très stimulée en ce moment."
 
 # game/Scenes/Whitney/whitney14.rpy:320
 translate french rjwhitneywarning_d4a5ac2e:
 
     # wt "Can we go to my bedroom? I want to have sex with you very badly."
-    wt "On peut aller dans ma chambre ? J'ai très envie de coucher avec toi."
+    wt "Pouvons-nous aller dans ma chambre ? J'ai terriblement envie de coucher avec toi."
 
 # game/Scenes/Whitney/whitney14.rpy:324
 translate french rjwhitneywarning_f91c3d58_1:
@@ -1144,7 +1144,7 @@ translate french whitney14leave_1d1c37b4:
 translate french whitney14leave_88d20829:
 
     # pc "Yeah, I feel like I'm going to be sick. I just need to go."
-    pc "Ouais, j'ai l'impression que je vais vomir. Je dois juste y aller."
+    pc "Ouais, j'ai l'impression que je vais vomir. J'ai juste besoin de partir."
 
 # game/Scenes/Whitney/whitney14.rpy:335
 translate french whitney14leave_76d673a0:
@@ -1156,31 +1156,31 @@ translate french whitney14leave_76d673a0:
 translate french whitney14leave_1910bc84:
 
     # wt "But remove your clothes before you leave and I will destroy them."
-    wt "Mais enlève tes vêtements avant de partir et je les détruirai."
+    wt "Mais déshabille-toi avant de partir, et je détruirai tes vêtements."
 
 # game/Scenes/Whitney/whitney14.rpy:337
 translate french whitney14leave_18479cec:
 
     # wt "Then I will get to work making the hoop ready for travel."
-    wt "Ensuite, je vais m'atteler à préparer le cerceau pour le voyage."
+    wt "Ensuite, je me mettrai au travail pour préparer le cerceau au voyage."
 
 # game/Scenes/Whitney/whitney14.rpy:338
 translate french whitney14leave_509819b5:
 
     # wt "We did a very good thing here. You are one step closer to finding your father. I wish you would feel happy about it."
-    wt "On a fait une très bonne chose ici. Tu as fait un pas de plus vers la découverte de ton père. J'aimerais que tu en sois heureuse."
+    wt "Nous avons fait quelque chose de très bien. Tu es un peu plus près de retrouver ton père. J'aimerais que cela te rende heureux."
 
 # game/Scenes/Whitney/whitney14.rpy:341
 translate french whitney14leave_5cf53be8:
 
     # "I don't feel happy. I don't feel good about it."
-    "Je ne me sens pas heureuse. Ça ne me met pas à l'aise."
+    "Je ne suis pas heureux. Je ne me sens pas bien avec tout ça."
 
 # game/Scenes/Whitney/whitney14.rpy:342
 translate french whitney14leave_27ca73a4:
 
     # "I feel like I am being pulled deeper into trouble that I'm not ready for."
-    "J'ai l'impression d'être entraînée plus profondément dans des ennuis auxquels je ne suis pas prête."
+    "J'ai l'impression d'être entraîné toujours plus loin dans des ennuis auxquels je ne suis pas préparé."
 
 # game/Scenes/Whitney/whitney14.rpy:343
 translate french whitney14leave_ae3efbd0:
@@ -1258,13 +1258,13 @@ translate french whitney14leave_375acf2e:
 translate french whitney14leave_d9117cd1:
 
     # pc "Can you feel that?"
-    pc "Tu le sens ?"
+    pc "Tu la sens ?"
 
 # game/Scenes/Whitney/whitney14.rpy:371
 translate french whitney14leave_b92babea:
 
     # wt "Yes, I feel it. It feels very deep."
-    wt "Oui, je le sens. Ça va très profond."
+    wt "Oui, je la sens. C'est très profond."
 
 # game/Scenes/Whitney/whitney14.rpy:372
 translate french whitney14leave_387e5205:
@@ -1276,31 +1276,31 @@ translate french whitney14leave_387e5205:
 translate french whitney14leave_61555687:
 
     # wt "Not at all."
-    wt "Pas du tout."
+    wt "Non, pas du tout."
 
 # game/Scenes/Whitney/whitney14.rpy:374
 translate french whitney14leave_b92d6b84:
 
     # pc "Okay. Let me know if something feels good. Or if it doesn't."
-    pc "D'accord. Dis-moi si quelque chose te fait du bien. Ou si ça ne te fait pas de bien."
+    pc "D'accord. Dis-moi si quelque chose te fait du bien. Ou si ça ne te plait pas."
 
 # game/Scenes/Whitney/whitney14.rpy:375
 translate french whitney14leave_452dd3fd:
 
     # wt "I will."
-    wt "Je le ferai."
+    wt "D'accord."
 
 # game/Scenes/Whitney/whitney14.rpy:377
 translate french whitney14leave_3add73b7:
 
     # "Despite her saying she wants it hard, I go gently at first, a little unsure of how I should act with her."
-    "Même si elle dit qu'elle le veut fort, je commence doucement, un peu indécis sur la façon dont je dois me comporter avec elle."
+    "Même si elle dit qu'elle veut que j'y aille fort, je commence doucement, un peu indécis sur la façon dont je dois me comporter avec elle."
 
 # game/Scenes/Whitney/whitney14.rpy:378
 translate french whitney14leave_cefcfcd6:
 
     # wt "I'm not going to break, [pcname]."
-    wt "Je ne vais pas te faire mal, [pcname]."
+    wt "Je ne suis pas en sucre, [pcname]."
 
 # game/Scenes/Whitney/whitney14.rpy:379
 translate french whitney14leave_4464dc82:
@@ -1354,7 +1354,7 @@ translate french whitney14leave_e8a65892:
 translate french whitney14leave_3bc38076:
 
     # pc "How about this? Do you feel this?"
-    pc "Ça te va ? Tu le sens ?"
+    pc "Ça te va ? Tu la sens ?"
 
 # game/Scenes/Whitney/whitney14.rpy:389
 translate french whitney14leave_323266ac:
@@ -1366,7 +1366,7 @@ translate french whitney14leave_323266ac:
 translate french whitney14leave_f6d1ef5e:
 
     # wt "Yeah, I feel it."
-    wt "Oui, je le sens."
+    wt "Oui, je la sens."
 
 # game/Scenes/Whitney/whitney14.rpy:391
 translate french whitney14leave_a3a63d9f:
@@ -1516,25 +1516,25 @@ translate french whitney14leave_bf88c363:
 translate french whitney14leave_8b5e3084:
 
     # wt "Yes, we did do that."
-    wt "Oui, on l'a fait."
+    wt "Oui, c'est vrai."
 
 # game/Scenes/Whitney/whitney14.rpy:429
 translate french whitney14leave_a15f5c41:
 
     # pc "I can't believe I did that. I could go to jail forever."
-    pc "Je n'arrive pas à croire que j'ai fait ça. Je pourrais finir en prison pour toujours."
+    pc "Je n'arrive pas à croire que j'ai fait ça. Je pourrais finir ma vie en prison."
 
 # game/Scenes/Whitney/whitney14.rpy:430
 translate french whitney14leave_14375a8e:
 
     # wt "Unlikely. The sentence for felony burglarly in a case like this would probably be closer to 15 years in a state prison."
-    wt "C'est peu probable. La peine pour cambriolage avec effraction dans un cas comme celui-ci serait probablement plutôt de 15 ans dans une prison d'État."
+    wt "Peu probable. Pour un cambriolage de ce type, la peine serait sans doute plus proche de 15 ans dans une prison d'État."
 
 # game/Scenes/Whitney/whitney14.rpy:431
 translate french whitney14leave_ae832767:
 
     # pc "Fifteen years!? I'd be almost forty! My life would basically be over!"
-    pc "Quinze ans !? J'aurais presque quarante ans ! Ma vie serait pratiquement finie !"
+    pc "Quinze ans ?! J'aurais presque quarante ans ! Ma vie serait quasiment finie !"
 
 # game/Scenes/Whitney/whitney14.rpy:434
 translate french whitney14leave_c9fc7b6f:
@@ -1546,7 +1546,7 @@ translate french whitney14leave_c9fc7b6f:
 translate french whitney14leave_ece9e387:
 
     # wt "You will be fine. And we will find your father as well."
-    wt "Tout ira bien pour toi. Et on retrouvera ton père aussi."
+    wt "Tout ira bien pour toi. Et nous retrouverons aussi ton père."
 
 # game/Scenes/Whitney/whitney14.rpy:436
 translate french whitney14leave_bbbaade8:
@@ -1570,7 +1570,7 @@ translate french whitney14leave_0a5112a9:
 translate french whitney14leave_27ca73a4_1:
 
     # "I feel like I am being pulled deeper into trouble that I'm not ready for."
-    "J'ai l'impression d'être entraînée dans des ennuis auxquels je ne suis pas prête."
+    "J'ai l'impression d'être entraîné toujours plus loin dans des ennuis auxquels je ne suis pas préparé."
 
 # game/Scenes/Whitney/whitney14.rpy:442
 translate french whitney14leave_65e357b6:
@@ -1582,7 +1582,7 @@ translate french strings:
 
     # game/Scenes/Whitney/whitney14.rpy:4
     old "A week after you helped Whitney shop for parts,"
-    new "Une semaine après que tu aies aidé Whitney à acheter des pièces détachées,"
+    new "Une semaine après avoir aidé Whitney à acheter des pièces,"
 
     # game/Scenes/Whitney/whitney14.rpy:5
     old "she will call you on a Saturday night to help her steal some diamonds."
