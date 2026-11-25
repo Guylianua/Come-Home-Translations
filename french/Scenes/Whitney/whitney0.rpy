@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/whitney0.rpy:12
 translate french whitney0_24d01809:
 
     # "I walk down to the basement and check Dad's laptop."
-    "Je descends au sous-sol et je consulte l'ordinateur portable de papa."
+    "Je descends au sous-sol et je consulte l'ordinateur portable de mon Papa."
 
 # game/Scenes/Whitney/whitney0.rpy:13
 translate french whitney0_df4af9e8:
@@ -46,7 +46,7 @@ translate french whitney0_4373f251:
 translate french whitney0_606df8e7:
 
     # "\"I'll wait, but don't take too long.\""
-    "« J'attendrai, mais ne traîne pas trop. »"
+    "« J'attendrai, mais ne tardez pas trop. »"
 
 # game/Scenes/Whitney/whitney0.rpy:24
 translate french whitney0_d972c5fe:
@@ -58,7 +58,7 @@ translate french strings:
 
     # game/Scenes/Whitney/whitney0.rpy:2
     old "First, you must clean the basement, then have Adrian unlock your dad's laptop, then tell Detective Rodriguez about what you found."
-    new "D'abord, tu dois nettoyer le sous-sol, puis demander à Adrian de déverrouiller l'ordinateur portable de ton père, puis raconter à l'inspecteur Rodriguez ce que tu as trouvé."
+    new "D'abord, tu dois nettoyer le sous-sol, demander à Adrian de déverrouiller l'ordinateur portable de ton père, puis raconter à l'inspectrice Rodriguez ce que tu as trouvé."
 
     # game/Scenes/Whitney/whitney0.rpy:3
     old "hen you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
