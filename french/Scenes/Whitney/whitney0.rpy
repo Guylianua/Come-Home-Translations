@@ -4,7 +4,7 @@
 translate french whitney0_24d01809:
 
     # "I walk down to the basement and check Dad's laptop."
-    "Je descends au sous-sol et je consulte l'ordi portable de papa."
+    "Je descends au sous-sol et je consulte l'ordinateur portable de papa."
 
 # game/Scenes/Whitney/whitney0.rpy:13
 translate french whitney0_df4af9e8:
