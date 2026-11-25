@@ -45,7 +45,7 @@ translate french whitneys8_dd22a36e:
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:25
 translate french whitneys8_04de268b:
 
-    # wt "My nanni asks me what I'm working on, like I'm supposed to explain quantum fusion to her in ten minutes over FaceTime."
+    # wt "My Nanni asks me what I'm working on, like I'm supposed to explain quantum fusion to her in ten minutes over FaceTime."
     wt "Ma nanni me demande sur quoi je travaille, comme si j’étais censée lui expliquer la fusion quantique en dix minutes sur FaceTime."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:27
