@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:6
 translate french whitneysex_fb85f717:
@@ -10,13 +10,13 @@ translate french whitneysex_fb85f717:
 translate french whitneysex_39eedc82:
 
     # wt "I have to admit... I'm feeling rather turned on right now."
-    wt "Je dois avouer... que je me sens plutôt excité en ce moment."
+    wt "Je dois l'avouer... je me sens plutôt excitée en ce moment."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:11
 translate french whitneysex_f7acee68:
 
     # wt "Something about the anticipation. Driving home and knowing that we are going to do things when we get there."
-    wt "C'est l'anticipation, je crois. Rouler vers la maison en sachant qu'on va faire des choses une fois arrivés."
+    wt "C'est l'attente, je crois. Rentrer en sachant ce qu'on va faire une fois arrivés."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:12
 translate french whitneysex_34604bf3:
@@ -34,25 +34,25 @@ translate french whitneysex_8f527434:
 translate french whitneysex_07b7c26c:
 
     # wt "Sorry, I just don't want to get anything on my clothes."
-    wt "Désolée, je ne veux juste pas tacher mes vêtements."
+    wt "Désolée, c'est simplement que je ne veux pas tacher mes vêtements."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:18
 translate french whitneysex_67271ebe:
 
     # pc "You don't have to apologize for stripping for me."
-    pc "Tu n'as pas à t'excuser de te déshabiller pour moi."
+    pc "Tu n'as pas à t'excuser de me faire un strip-tease."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:19
 translate french whitneysex_40b72a8d:
 
     # wt "Haha, stripping. Could you imagine me on one of those poles?"
-    wt "Haha, me déshabiller. Tu m'imagines sur une de ces barres ?"
+    wt "Haha, un strip-tease. Tu m'imagines autour d'une de ces barres ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:20
 translate french whitneysex_c898f596:
 
     # pc "I definitely could. I am right now..."
-    pc "Tout à fait. Je t'imagine en ce moment même..."
+    pc "Carrément. D'ailleurs, je suis en train de t'imaginer..."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:21
 translate french whitneysex_2155c611:
@@ -64,7 +64,7 @@ translate french whitneysex_2155c611:
 translate french whitneysex_affd6c62:
 
     # wt "Bring your penis over here. Stand next to the bed."
-    wt "Amène ton pénis ici. Viens te mettre à côté du lit."
+    wt "Amène ton sexe ici. Viens te mettre à côté du lit."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:23
 translate french whitneysex_bc3c1349:
@@ -76,13 +76,13 @@ translate french whitneysex_bc3c1349:
 translate french whitneysexend_2a440379:
 
     # "A bit later, we get cleaned up and dressed, then go back out to her van and she drives me home."
-    "Un peu plus tard, on se nettoie et on s'habille, puis on retourne à son van et elle me ramène chez moi."
+    "Un peu plus tard, on fait un brin de toilette et on se rhabille, puis on remonte dans son van et elle me ramène chez moi."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:58
 translate french whitneysexend_945f9fdf:
 
     # wt "Well, I guess this is goodbye for now. I had a great time."
-    wt "Bon, je suppose que c'est un au revoir pour l'instant. J'ai passé un super moment."
+    wt "Bon, il est temps de se dire au revoir, pour cette fois. J'ai passé un merveilleux moment."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:59
 translate french whitneysexend_e2b5cf33:
