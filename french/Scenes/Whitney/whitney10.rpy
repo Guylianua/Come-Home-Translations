@@ -16,7 +16,7 @@ translate french whitney10_cabe2426:
 translate french whitney10_b9006bbe:
 
     # wt "Oh hey. Are you busy?"
-    wt "Oh, salut. Tu es occupé ?"
+    wt "Oh, salut. Êtes-vous occupé ?"
 
 # game/Scenes/Whitney/whitney10.rpy:17
 translate french whitney10_bc1428f9:
@@ -28,31 +28,31 @@ translate french whitney10_bc1428f9:
 translate french whitney10_87d76db1:
 
     # wt "I have this craving for that burger place we went to before. Would you want to go get dinner with me again?"
-    wt "J'ai une folle envie de retourner dans ce restaurant de burgers où on est allés l'autre fois. Ça te dirait de venir y dîner avec moi ?"
+    wt "J'ai une folle envie de retourner dans ce restaurant de burgers où nous sommes allés l'autre fois. Accepteriez-vous d'y dîner de nouveau avec moi ?"
 
 # game/Scenes/Whitney/whitney10.rpy:20
 translate french whitney10_240f7709:
 
     # pc "Are you asking me out on a date?"
-    pc "Tu me proposes un rencard ?"
+    pc "Vous me proposez un rencard ?"
 
 # game/Scenes/Whitney/whitney10.rpy:22
 translate french whitney10_b86f93de:
 
     # wt "You can call it whatever you like. I just want a burger."
-    wt "Appelle ça comme tu veux. Je veux juste un burger."
+    wt "Appelez ça comme vous voudrez. Je veux juste un burger."
 
 # game/Scenes/Whitney/whitney10.rpy:23
 translate french whitney10_91e1bb14:
 
     # wt "And your company is nice as well."
-    wt "Et puis, ta compagnie est agréable aussi."
+    wt "Et votre compagnie est également agréable."
 
 # game/Scenes/Whitney/whitney10.rpy:27
 translate french whitney10_7c538ce6:
 
     # wt "Great! I'll drive over and pick you up at your place in about half an hour."
-    wt "Super ! Je passe te chercher chez toi dans une demi-heure environ."
+    wt "Parfait ! Je passe vous prendre chez vous en voiture d'ici une demi-heure environ."
 
 # game/Scenes/Whitney/whitney10.rpy:28
 translate french whitney10_ac8c00ba:
@@ -76,7 +76,7 @@ translate french whitney10_2aaf9014:
 translate french whitney10_f7a5b1c0:
 
     # wt "Well, if you want to sometime, just give me a call in the evening. I'm usually free."
-    wt "Eh bien, si ça te dit une autre fois, tu n'as qu'à m'appeler en soirée. Je suis généralement libre."
+    wt "Eh bien, si un jour vous en avez envie, appelez-moi en soirée. Je suis généralement libre."
 
 # game/Scenes/Whitney/whitney10.rpy:35
 translate french whitney10_bf0c9413:
@@ -88,13 +88,13 @@ translate french whitney10_bf0c9413:
 translate french whitney10_a7e7a8bf:
 
     # wt "Bye, [pcname]."
-    wt "Salut, [pcname]."
+    wt "Au revoir, [pcname]."
 
 translate french strings:
 
     # game/Scenes/Whitney/whitney10.rpy:2
     old "A few days after you help Whitney pick up supplies and have lunch with her,"
-    new "Quelques jours après avoir aidé Whitney à faire ses courses et avoir déjeuné avec elle,"
+    new "Quelques jours après avoir aidé Whitney à aller chercher du matériel pour son laboratoire et déjeuné avec elle,"
 
     # game/Scenes/Whitney/whitney10.rpy:3
     old "if you've had a few conversations with her on the phone, she'll call and invite you out again."
