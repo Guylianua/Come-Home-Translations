@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:14
 translate french whitneyblowjob_6f2d66ac:
@@ -22,13 +22,13 @@ translate french whitneyblowjob_0831989d:
 translate french whitneyblowjob_37ace192:
 
     # wt "Sorry this is not as easy as it would be with somebody whose legs work."
-    wt "Désolée, ce n’est pas aussi facile qu’avec quelqu’un qui a ses jambes."
+    wt "Désolée, ce n'est pas aussi facile qu'avec quelqu'un qui peut se servir de ses jambes."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:18
 translate french whitneyblowjob_976bc029:
 
     # pc "Oh please. Don't apologize. You're amazing."
-    pc "Oh, s’il te plaît. Ne t’excuse pas. Tu es incroyable."
+    pc "Oh, arrête. Ne t'excuse pas. Tu es incroyable."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:23
 translate french whitneyblowjob_de68b7fc:
@@ -46,13 +46,13 @@ translate french whitneyblowjob_7787bd19:
 translate french whitneyblowjob_bf86bf24:
 
     # pc "You don't have to. Anything you do with it is going to feel good."
-    pc "Tu n'es pas obligée. Tout ce que tu feras me fera du bien."
+    pc "Tu n'es pas obligée. Tout ce que tu feras va me plaire."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:26
 translate french whitneyblowjob_1c709216:
 
     # wt "I hope so. I want to make you feel good."
-    wt "J'espère. Je veux te faire du bien."
+    wt "J'espère. Je veux te donner du plaisir."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:31
 translate french whitneyblowjob_125459c0:
@@ -100,7 +100,7 @@ translate french whitneyblowjob_76c99ec6:
 translate french whitneyblowjob_51ce1057:
 
     # pc "If you keep going like that, I'm definitely going to cum."
-    pc "Si tu continues comme ça, je vais carrément jouir."
+    pc "Si tu continues comme ça, je vais jouir bientôt."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:45
 translate french whitneyblowjob_ce09b365:
@@ -112,7 +112,7 @@ translate french whitneyblowjob_ce09b365:
 translate french whitneyblowjob_ec1bc368:
 
     # pc "You don't want to have sex? I could make you feel good too."
-    pc "Tu ne veux pas baiser ? Je pourrais te faire du bien aussi."
+    pc "Tu ne veux pas baiser ? Je pourrais moi aussi te donner du plaisir."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:47
 translate french whitneyblowjob_852a7291:
@@ -214,7 +214,7 @@ translate french whitneyblowjob_7f97f41d:
 translate french whitneyblowjob_0e693f93:
 
     # wt "Ha, I'm sorry. I assumed you enjoyed it?"
-    wt "Ha, je suis désolée. J’ai supposé que tu avais aimé ?"
+    wt "Ha, pardon. Je pensais que ça t'avait plu ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:78
 translate french whitneyblowjob_91920297:
@@ -226,31 +226,31 @@ translate french whitneyblowjob_91920297:
 translate french whitneyblowjob_15c2ea7f:
 
     # wt "I enjoyed it too."
-    wt "J’ai aimé aussi."
+    wt "Moi aussi, j'ai aimé."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:80
 translate french whitneyblowjob_6e720ae7:
 
     # pc "But you don't want me to do anything for you?"
-    pc "Mais tu ne veux pas que je fasse quoi que ce soit pour toi ?"
+    pc "Mais tu ne veux pas que je fasse quelque chose pour toi ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:81
 translate french whitneyblowjob_d412aefd:
 
     # wt "Not today. Baby steps."
-    wt "Pas aujourd’hui. Petit à petit."
+    wt "Pas aujourd'hui. Chaque chose en son temps."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:82
 translate french whitneyblowjob_207c92df:
 
     # wt "For now, I'll get dressed and drive you back home."
-    wt "Pour l'instant, je vais m'habiller et te ramener chez toi."
+    wt "Pour le moment, je vais me rhabiller et te reconduire chez toi."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:83
 translate french whitneyblowjob_c2d76e2b:
 
     # pc "Aw, okay."
-    pc "Ah, d'accord."
+    pc "Oh... d'accord."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:84
 translate french whitneyblowjob_06a14640:
